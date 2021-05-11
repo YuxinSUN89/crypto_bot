@@ -1,0 +1,7 @@
+# python-binance
+ccxt
+pandas
+numpy
+schedule
+# websocket_client
+
